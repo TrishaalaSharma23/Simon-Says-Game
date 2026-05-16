@@ -1,4 +1,13 @@
 # Simon-Says-Game
+
+🌐 Live Demo
+https://simon-says-game-9fze.onrender.com
+
+⚙️ Run Locally
+git clone <repository-link>
+
+Open index.html in the browser.
+
 An interactive browser-based memory game inspired by the classic Simon Says gameplay. The application generates random color sequences that users must repeat correctly to progress through increasing difficulty levels.
 
 Features :
